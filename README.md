@@ -6,7 +6,7 @@
 
 <h1 align="center">Cuymanga - Platform Baca Manga Online</h1>
 
-<p align="center">Platform baca manga online berbasis PHP & Tailwind CSS. Ringan, cepat, Responsive.</p>
+<p align="center">Platform baca manga online berbasis PHP & Tailwind CSS, Ringan.</p>
 
 <p align="center">
   <a href="https://github.com/whyudacok/Cuymanga/blob/main/LICENSE">
@@ -18,8 +18,7 @@
 ## ✨ Fitur
 - **Bookmark** - Simpan manga favorit di localStorage  
 - **Dark Mode** - Baca lebih nyaman di malam hari  
-- **Pencarian** - Akses 8.000+ manga  
-- **Cache** - Loading lebih cepat  
+- **Pencarian** - Akses 8.000+ komik  
 - **API Terintegrasi** - Scraping menggunakan Simple HTML DOM  
 
 
