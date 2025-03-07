@@ -111,7 +111,7 @@ $info_komik = $chapter_data['info_komik'] ?? [];
         <div class="flex justify-center items-center gap-2">
           <!-- Prev Chapter -->
           <?php if (!empty($chapter_data['navigasi']['sebelumnya'])): ?>
-          <a href="/chapter<?= $chapter_data['navigasi']['sebelumnya'] ?>"
+          <a href="/chapter.php?c=<?= ltrim($chapter_data['navigasi']['sebelumnya'] ?? '#', '/') ?>"
             class="px-4 py-2 bg-neutral-100 dark:bg-neutral-700 hover:bg-neutral-200 dark:hover:bg-neutral-600 rounded-lg transition-colors flex items-center gap-1 text-sm">
             <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
               <path d="M15 6l-6 6 6 6"></path>
@@ -120,7 +120,7 @@ $info_komik = $chapter_data['info_komik'] ?? [];
           </a>
           <?php endif; ?>
           <!-- Daftar Chapter -->
-          <a href="<?= $chapter_data['semua_chapter'] ?? '#' ?>"
+          <a href="/komik.php?id=<?= str_replace('/komik/', '', $chapter_data['semua_chapter'] ?? '#') ?>"
             class="px-4 py-2 bg-primary-500 hover:bg-primary-600 text-white rounded-lg transition-colors flex items-center gap-1 text-sm">
             <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
               <path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"></path>
@@ -130,7 +130,7 @@ $info_komik = $chapter_data['info_komik'] ?? [];
           </a>
           <!-- Next Chapter -->
           <?php if (!empty($chapter_data['navigasi']['selanjutnya'])): ?>
-          <a href="/chapter<?= $chapter_data['navigasi']['selanjutnya'] ?>"
+          <a href="/chapter.php?c=<?= ltrim($chapter_data['navigasi']['selanjutnya'] ?? '#', '/') ?>"
             class="px-4 py-2 bg-neutral-100 dark:bg-neutral-700 hover:bg-neutral-200 dark:hover:bg-neutral-600 rounded-lg transition-colors flex items-center gap-1 text-sm">
             <span>Chapter Selanjutnya</span>
             <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
