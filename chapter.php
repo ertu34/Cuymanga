@@ -116,7 +116,7 @@ $info_komik = $chapter_data['info_komik'] ?? [];
             <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
               <path d="M15 6l-6 6 6 6"></path>
             </svg>
-            <span>Chapter Sebelumnya</span>
+            <span>Prev</span>
           </a>
           <?php endif; ?>
           <!-- Daftar Chapter -->
@@ -126,13 +126,13 @@ $info_komik = $chapter_data['info_komik'] ?? [];
               <path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"></path>
               <path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"></path>
             </svg>
-            <span>Daftar Chapter</span>
+            <span>All</span>
           </a>
           <!-- Next Chapter -->
           <?php if (!empty($chapter_data['navigasi']['selanjutnya'])): ?>
           <a href="/chapter.php?c=<?= ltrim($chapter_data['navigasi']['selanjutnya'] ?? '#', '/') ?>"
             class="px-4 py-2 bg-neutral-100 dark:bg-neutral-700 hover:bg-neutral-200 dark:hover:bg-neutral-600 rounded-lg transition-colors flex items-center gap-1 text-sm">
-            <span>Chapter Selanjutnya</span>
+            <span>Next</span>
             <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
               <path d="M9 6l6 6-6 6"></path>
             </svg>
