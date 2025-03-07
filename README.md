@@ -36,7 +36,8 @@
 ## 🚀 Instalasi
 1. Clone & upload ke hosting  
 2. Edit `config.php`  
-3. Akses melalui browser  
+3. Akses melalui browser
+4. demo [Cuymanga](http://cuymanga.infy.uk/)
 
 ## 🌐 Hosting testing 
 - [InfinityFree](https://www.infinityfree.net/)  
