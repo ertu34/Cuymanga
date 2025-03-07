@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h1 align="center">Cuymanga - Baca Manga Online</h1>
+<h1 align="center">Cuymanga - Platform Baca Manga Online</h1>
 
 <p align="center">Platform baca manga online berbasis PHP & Tailwind CSS. Ringan, cepat, tanpa database.</p>
 
@@ -15,7 +15,6 @@
 </p>
 
 ## ✨ Fitur
-- **Tanpa Database** - Langsung jalan tanpa setup  
 - **Bookmark** - Simpan manga favorit di localStorage  
 - **Dark Mode** - Baca lebih nyaman di malam hari  
 - **Pencarian** - Akses 8.000+ manga  
