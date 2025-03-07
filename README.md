@@ -1,12 +1,12 @@
 <p align="center">
-  <a href="https://cuymanga.com/">
-    <img alt="Cuymanga" src="https://cdnzia.pages.dev/images/logo.webp" width="120">
+  <a href="https://trakteer.id/slynnn/">
+    <img alt="Cuymanga" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiadW1iCb1YeYiJJEePKuKAERWfd6a7vOjEEhlsGj4fbbp7ZWoakJcWeaKOeXYmJEsWSSE88j5pcvnVIap5f_Tq1arJvhpJ6GZ3_6B2TEDlkuz-4i_GaWo6Ps8p5Dv_hYQATVTC-L4NHxG64_Th1rMCTWnLEsCkuy54t6X_PkEiT2RTbh573n6JRsVY_lz-/s735/c519bb45-9731-4f42-955a-824cca20b9c4.jpeg" width="120">
   </a>
 </p>
 
 <h1 align="center">Cuymanga - Platform Baca Manga Online</h1>
 
-<p align="center">Platform baca manga online berbasis PHP & Tailwind CSS. Ringan, cepat, tanpa database.</p>
+<p align="center">Platform baca manga online berbasis PHP & Tailwind CSS. Ringan, cepat, Responsive.</p>
 
 <p align="center">
   <a href="https://github.com/whyudacok/Cuymanga/blob/main/LICENSE">
@@ -32,7 +32,7 @@
 - [KSWEB (Android)](https://play.google.com/store/apps/details?id=ru.kslabs.ksweb)  
 
 ### ⚠️ Note  
-Tidak semua hosting bisa mengakses **Komikindo.com** (sering 403).  
+Tidak semua hosting bisa mengakses **Komikindo** (sering 403).  
 Gunakan **[Serv00](https://serv00.com)** jika ingin API berjalan lancar.  
 
 ## 👩🏿‍🦲 Dukung Cuymanga  
