@@ -1,7 +1,7 @@
 <?php
 /**
 * CuymangaAPI
-*
+* 
 * Description: API untuk web scraping, mengambil data komik dari komikindo2.com menggunakan Simple HTML DOM.
 *
 * Versi: 1.1.0
