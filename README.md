@@ -51,4 +51,6 @@ Gunakan **[Serv00](https://serv00.com)** jika ingin API berjalan lancar.
 Bantu Cuymanga tuk beli server:v
 **[Trakteer](https://trakteer.id/slynnn)**  
 
-## 📄 [Lisensi MIT](LICENSE)  
+# Lisensi
+
+Proyek ini dilisensikan di bawah Lisensi MIT - lihat file [LICENSE](LICENSE) untuk informasi lebih lanjut.
