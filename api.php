@@ -72,7 +72,6 @@ function checkRateLimit() {
 }
 
 /**
-* Fungsi untuk menampilkan JSON dengan format yang bagus di browser
 *
 * @param array $data Data yang akan ditampilkan
 * @param int $statusCode HTTP status code
