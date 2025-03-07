@@ -9,13 +9,7 @@
 <p align="center">Platform baca manga online berbasis PHP & Tailwind CSS. Ringan, cepat, tanpa database.</p>
 
 <p align="center">
-  <a href="https://discord.gg/43pgyxBDPg">
-    <img src="https://img.shields.io/discord/987492554486452315?color=7289da&label=Discord&logo=discord&logoColor=white" alt="Discord">
-  </a>
-  <a href="https://telegram.me/animezia_updates">
-    <img src="https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=telegram&logoColor=white" alt="Telegram">
-  </a>
-  <a href="https://github.com/yourusername/cuymanga/blob/main/LICENSE">
+  <a href="https://github.com/whyudacok/Cuymanga/blob/main/LICENSE">
     <img src="https://img.shields.io/github/license/yourusername/cuymanga?color=green" alt="License">
   </a>
 </p>
