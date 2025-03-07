@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/whyudacok/Cuymanga/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/yourusername/cuymanga?color=green" alt="License">
+    <img src="https://img.shields.io/github/license/whyudacok/cuymanga?color=green" alt="License">
   </a>
 </p>
 
