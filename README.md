@@ -18,9 +18,8 @@
 ## ✨ Fitur
 - **Bookmark** - Simpan manga favorit di localStorage  
 - **Dark Mode** - Baca lebih nyaman di malam hari  
-- **Pencarian** - Akses 7.000+ komik  
-- **API Terintegrasi** - Scraping menggunakan Simple HTML DOM  
-
+- **Pencarian** - Akses 7.000+ komik
+- **Seo Friendly ** 
 
 ## 📸 Screenshot
 <table>
