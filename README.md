@@ -4,9 +4,9 @@
   </a>
 </p>
 
-<h1 align="center">Cuymanga - Platform Baca Manga Online</h1>
+<h1 align="center">Cuymanga - Baca Manga Online</h1>
 
-<p align="center">Platform baca manga online berbasis PHP & Tailwind CSS, Ringan.</p>
+<p align="center">Scraper manga dari Komikindo dengan Simple HTML DOM.</p>
 
 <p align="center">
   <a href="https://github.com/whyudacok/Cuymanga/blob/main/LICENSE">
