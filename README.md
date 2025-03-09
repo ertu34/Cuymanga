@@ -45,10 +45,8 @@
 Tidak semua hosting bisa mengakses **Komikindo** (sering 403).  
 Gunakan **[Serv00](https://serv00.com)** jika ingin API berjalan lancar.  
 
-## 👩🏿‍🦲 Dukung Cuymanga  
-Bantu Cuymanga tuk beli server:v
+## Support Cuymanga  
 **[Trakteer](https://trakteer.id/slynnn)**  
 
-## 📄 Lisensi  
-
+## Lisensi  
 Proyek ini dilisensikan di bawah Lisensi MIT. Lihat [LICENSE](LICENSE) untuk detail.  
