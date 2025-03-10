@@ -596,9 +596,9 @@ try {
   } else {
     // Jika tidak ada parameter yang cocok, tampilkan dokumentasi API
     $documentation = [
-      'nama' => 'CuymangaAPI',
-      'versi' => '1.1.0',
-      'desk' => 'API untuk web scraping, mengambil data komik dari komikindo2.com menggunakan Simple HTML DOM.',
+      'name' => 'CuymangaAPI',
+      'version' => '1.1.0',
+      'description' => 'CuymangaAPI adalah REST API buat web scraping yang ngambil data komik dari Komikindo2.com pakai Simple HTML DOM PHP.',
       'author' => 'whyudacok',
       'Website' => 'https://whyuck.my.id',
       'rate_limit' => RATE_LIMIT . ' request per ' . RATE_LIMIT_WINDOW . ' detik',
