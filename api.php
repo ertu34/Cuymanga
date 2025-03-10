@@ -1,8 +1,6 @@
 <?php 
 /**
 * CuymangaAPI
-* 
-* Description: API untuk web scraping, mengambil data komik dari komikindo2.com menggunakan Simple HTML DOM.
 *
 * Versi: 1.1.0
 * Author: whyudacok
@@ -603,7 +601,7 @@ try {
       'desk' => 'API untuk web scraping, mengambil data komik dari komikindo2.com menggunakan Simple HTML DOM.',
       'author' => 'whyudacok',
       'Website' => 'https://whyuck.my.id',
-      'rate_limit' => RATE_LIMIT . ' requests per ' . RATE_LIMIT_WINDOW . ' seconds',
+      'rate_limit' => RATE_LIMIT . ' request per ' . RATE_LIMIT_WINDOW . ' detik',
       'endpoint' => [
         [
           'path' => '?latest=1&page=1',
