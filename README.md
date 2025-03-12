@@ -41,9 +41,6 @@
 - [Serv00](https://serv00.com)  
 - [KSWEB (Android)](https://play.google.com/store/apps/details?id=ru.kslabs.ksweb)  
 
-### ⚠️ Note  
-Tidak semua hosting bisa mengakses **Komikindo** (sering 403).  
-Gunakan **[Serv00](https://serv00.com)** jika ingin API berjalan lancar.  
 
 ## Support Cuymanga  
 **[Trakteer](https://trakteer.id/slynnn)**  
