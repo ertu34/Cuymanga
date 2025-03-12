@@ -72,15 +72,15 @@
     sideNavbar.classList.remove('-translate-x-full'); // Tampilkan sidebar
     sideNavbarOverlay.classList.remove('hidden'); // Tampilkan overlay
     setTimeout(() => {
-      sideNavbarOverlay.classList.add('backdrop-blur-sm'); // Tambahkan efek blur
+      sideNavbarOverlay.classList.add('backdrop-blur-sm'); // add efek blur
     }, 10);
   }
 
   function closeSidebar() {
-    sideNavbar.classList.add('-translate-x-full'); // Sembunyikan sidebar
+    sideNavbar.classList.add('-translate-x-full'); // hidden sidebar
     sideNavbarOverlay.classList.remove('backdrop-blur-sm'); // Hapus efek blur
     setTimeout(() => {
-      sideNavbarOverlay.classList.add('hidden'); // Sembunyikan overlay
+      sideNavbarOverlay.classList.add('hidden'); // hidden overlay
     }, 300);
   }
 
@@ -103,14 +103,14 @@
 
   window.addEventListener('scroll', () => {
     if (lastScrollY < window.scrollY && window.scrollY > 100) {
-      navbar.classList.add('navbar-hidden'); // Sembunyikan navbar saat scroll ke bawah
+      navbar.classList.add('navbar-hidden'); // hidden scroll ke bawah
     } else {
-      navbar.classList.remove('navbar-hidden'); // Tampilkan navbar saat scroll ke atas
+      navbar.classList.remove('navbar-hidden'); // navbar scroll ke atas
     }
     lastScrollY = window.scrollY;
   });
 
-  // Animasi saat elemen muncul di layar
+  // Animasi di layar
   document.addEventListener('DOMContentLoaded', function () {
     const animateOnScroll = function () {
       const elements = document.querySelectorAll('.animate-item');
@@ -120,16 +120,22 @@
         const windowHeight = window.innerHeight;
 
         if (elementPosition < windowHeight - 50) {
-          element.classList.add('animate-fade-in'); // Tambahkan efek fade-in
+          element.classList.add('animate-fade-in'); // efek fade-in
         }
       });
     };
-
-    // Jalankan animasi saat halaman dimuat
     animateOnScroll();
 
-    // Jalankan animasi saat scroll
     window.addEventListener('scroll',
       animateOnScroll);
   });
 </script>
+<script type="text/javascript">var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.start', '1,4816353,4,406,165,100,00001111']);
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('//s10.histats.com/js15_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();</script>
