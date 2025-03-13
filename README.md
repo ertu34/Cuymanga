@@ -12,6 +12,7 @@
   <a href="https://github.com/whyudacok/Cuymanga/blob/main/LICENSE">
     <img src="https://img.shields.io/github/license/whyudacok/cuymanga?color=green" alt="License">
   </a>
+  <img src="https://count.getloli.com/get/@cuymanga?theme=rule34" alt="Visitor Count" width="50">
 </p>
 
 
