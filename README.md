@@ -20,7 +20,7 @@
 - **Bookmark** - Simpan manga favorit di localStorage  
 - **Dark Mode** - Baca lebih nyaman di malam hari  
 - **Pencarian** - Akses 7.000+ komik
-- **Seo Friendly** 
+- **Bebas iklan** 
 
 ## 📸 Screenshot
 <table>
