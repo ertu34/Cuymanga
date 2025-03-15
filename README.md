@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://trakteer.id/slynnn/">
-    <img alt="Cuymanga" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiadW1iCb1YeYiJJEePKuKAERWfd6a7vOjEEhlsGj4fbbp7ZWoakJcWeaKOeXYmJEsWSSE88j5pcvnVIap5f_Tq1arJvhpJ6GZ3_6B2TEDlkuz-4i_GaWo6Ps8p5Dv_hYQATVTC-L4NHxG64_Th1rMCTWnLEsCkuy54t6X_PkEiT2RTbh573n6JRsVY_lz-/s735/c519bb45-9731-4f42-955a-824cca20b9c4.jpeg" width="120">
+    <img alt="Cuymanga" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-G_t-EQA0E8lps2MZxG_o5lnlFbl4LS8DWPjXdcsA1dhhyphenhyphenXp2T17bZI-MUhakzF98ANNFPEstjHQTnJ9H_nsnmGZRbqTmhmqiJMqlWOfJCL2bapKnKyCd4XSqKCyLY93bOH-S-hH2wiDAGV5DVjrQ3wOEOiSuwm1700MT_Ef-3h9PkH51tcLjMgXxjf_H/s1080/Proyek%20Baru%2065%20%5BD1A02AC%5D.png" width="120">
   </a>
 </p>
 
